@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MyPreciousRes">
+        <file>13_Resource.pro</file>
+    </qresource>
+</RCC>
