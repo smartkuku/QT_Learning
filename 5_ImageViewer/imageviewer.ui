@@ -62,8 +62,13 @@
    <attribute name="toolBarBreak">
     <bool>false</bool>
    </attribute>
+   <addaction name="openAct"/>
   </widget>
   <action name="openAct">
+   <property name="icon">
+    <iconset resource="MyRes.qrc">
+     <normaloff>:/images/image/open.png</normaloff>:/images/image/open.png</iconset>
+   </property>
    <property name="text">
     <string>&amp;Open...</string>
    </property>
@@ -139,6 +144,8 @@
    </property>
   </action>
  </widget>
- <resources/>
+ <resources>
+  <include location="MyRes.qrc"/>
+ </resources>
  <connections/>
 </ui>
