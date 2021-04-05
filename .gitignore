@@ -1,6 +1,19 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
+build-10_Splitter-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-11_QDir_Example-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-12_QFile_Example-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-13_Resource-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-14_ComboBox-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-15_QListWidget-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-15_TreeWidgetDialog-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-16_TreeWidgetDialog-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-2_Signal_And_Slot-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-5_ImageViewer-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-8_Layout-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+build-9_Grid_Layout-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+
 *~
 *.autosave
 *.a
